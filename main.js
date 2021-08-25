@@ -18,7 +18,7 @@ function modelLoaded(){
   console.log('modelLoaded');
 }
 
-function gotResult(error,result){
+function gotResult(error,results){
   if(error){
     console.error(error);
   }
